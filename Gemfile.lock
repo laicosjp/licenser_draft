@@ -304,7 +304,6 @@ DEPENDENCIES
   pry-rails
   puma (~> 5.0)
   rails (~> 7.0.3)
-  rename
   rspec-rails
   rubocop
   rubocop-rails
