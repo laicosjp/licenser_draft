@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_07_16_052932) do
+ActiveRecord::Schema[7.0].define(version: 2022_08_23_043929) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -27,4 +27,65 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_16_052932) do
     t.index ["reset_password_token"], name: "index_accounts_on_reset_password_token", unique: true
   end
 
+  create_table "admin_users", force: :cascade do |t|
+    t.string "email", default: "", null: false
+    t.string "encrypted_password", default: "", null: false
+    t.string "reset_password_token"
+    t.datetime "reset_password_sent_at"
+    t.datetime "remember_created_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["email"], name: "index_admin_users_on_email", unique: true
+    t.index ["reset_password_token"], name: "index_admin_users_on_reset_password_token", unique: true
+  end
+
+  create_table "categories", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "genres", force: :cascade do |t|
+    t.bigint "category_id", null: false
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["category_id"], name: "index_genres_on_category_id"
+  end
+
+  create_table "got_licenses", force: :cascade do |t|
+    t.bigint "account_id", null: false
+    t.bigint "license_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["account_id"], name: "index_got_licenses_on_account_id"
+    t.index ["license_id"], name: "index_got_licenses_on_license_id"
+  end
+
+  create_table "licenses", force: :cascade do |t|
+    t.bigint "genre_id", null: false
+    t.string "name"
+    t.text "description"
+    t.string "url"
+    t.string "sponsor"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["genre_id"], name: "index_licenses_on_genre_id"
+  end
+
+  create_table "target_licenses", force: :cascade do |t|
+    t.bigint "account_id", null: false
+    t.bigint "license_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["account_id"], name: "index_target_licenses_on_account_id"
+    t.index ["license_id"], name: "index_target_licenses_on_license_id"
+  end
+
+  add_foreign_key "genres", "categories"
+  add_foreign_key "got_licenses", "accounts"
+  add_foreign_key "got_licenses", "licenses"
+  add_foreign_key "licenses", "genres"
+  add_foreign_key "target_licenses", "accounts"
+  add_foreign_key "target_licenses", "licenses"
 end

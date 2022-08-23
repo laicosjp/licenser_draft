@@ -4,5 +4,7 @@ class Account < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 
-  enum status: { unidentified: 0, candidate: 1, professor: 2 }
+  has_many :got_licenses
+  has_many :target_licenses
+
 end
