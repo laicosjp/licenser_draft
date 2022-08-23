@@ -14,6 +14,7 @@ gem 'jsbundling-rails'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 gem 'rails', '~> 7.0.3'
+gem 'rails_admin'
 gem 'sprockets-rails'
 gem 'stimulus-rails'
 gem 'turbo-rails'
@@ -39,3 +40,4 @@ group :test do
   gem 'faker'
   gem 'rspec-rails'
 end
+gem "sassc-rails"
