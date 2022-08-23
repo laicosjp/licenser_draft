@@ -64,6 +64,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_23_043929) do
   end
 
   create_table "licenses", force: :cascade do |t|
+    t.bigint "category_id", null: false
     t.bigint "genre_id", null: false
     t.string "name"
     t.text "description"
@@ -71,6 +72,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_23_043929) do
     t.string "sponsor"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["category_id"], name: "index_licenses_on_category_id"
     t.index ["genre_id"], name: "index_licenses_on_genre_id"
   end
 
@@ -86,6 +88,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_23_043929) do
   add_foreign_key "genres", "categories"
   add_foreign_key "got_licenses", "accounts"
   add_foreign_key "got_licenses", "licenses"
+  add_foreign_key "licenses", "categories"
   add_foreign_key "licenses", "genres"
   add_foreign_key "target_licenses", "accounts"
   add_foreign_key "target_licenses", "licenses"
