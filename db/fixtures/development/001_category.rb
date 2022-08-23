@@ -1,6 +1,6 @@
 categories = [
   { ja_name: "基礎教育・趣味・教養", en_name: "culture" },
-  { ja_name: "事務・法務・経営", en_name: "officer" },
+  { ja_name: "事務・法務・経営", en_name: "office" },
   { ja_name: "IT・情報処理", en_name: "it" },
   { ja_name: "語学・国際ビジネス", en_name: "language" },
   { ja_name: "財務・金融・会計", en_name: "finance" },
