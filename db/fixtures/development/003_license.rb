@@ -6,7 +6,7 @@ license_params = []
 
 CSV.foreach(csv, headers: true) do |row|
   category = Category.find_by!(en_name: row['category_en_name'])
-  genre = category.genres[row['genre_order_num'].to_i]
+  genre = category.genres[row['genre_order_num'].to_i - 1]
   license_params << {
     category_id: category.id,
     genre_id: genre.id,
