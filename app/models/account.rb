@@ -6,5 +6,4 @@ class Account < ApplicationRecord
 
   has_many :got_licenses
   has_many :target_licenses
-
 end
