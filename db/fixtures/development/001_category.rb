@@ -10,7 +10,7 @@ categories = [
   { ja_name: "不動産・建築・工事", en_name: "realestate" },
   { ja_name: "調理・衛生・飲食", en_name: "food" },
   { ja_name: "生活・サービス・冠婚葬祭", en_name: "lifestyle" },
-  { ja_name: "デザイン・クリエイティブ", en_name: "createtive" },
+  { ja_name: "デザイン・クリエイティブ", en_name: "creative" },
   { ja_name: "自然・環境・生物", en_name: "ecology" },
   { ja_name: "公務員・教育", en_name: "public" },
   { ja_name: "車両・航空・船舶・無線", en_name: "transport" },
