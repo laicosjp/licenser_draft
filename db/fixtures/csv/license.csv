@@ -1,0 +1,1091 @@
+category_en_name,genre_order_num,license_name
+culture,1,日本漢字能力検定 (漢検)
+culture,1,実用数学技能検定（数学検定・算数検定）
+culture,1,日本語検定 (語検)
+culture,1,文章読解・作成能力検定
+culture,1,算数・数学 思考力検定
+culture,1,実用日本語文字力検定（旧：漢字習熟度検定）
+culture,1,作文検定／小論文検定
+culture,1,暗算検定
+culture,1,マナー・プロトコール検定
+culture,1,コミュニケーションスキル認定資格
+culture,1,珠算検定 (全国珠算教育連盟)
+culture,1,珠算能力検定 (日本商工会議所)
+culture,1,珠算検定 (全国商工会連合会)
+culture,1,アナウンス力検定
+culture,1,日本語音声表現力検定
+culture,1,教科別能力検定
+culture,1,人間力徳育検定
+culture,1,SOGIカウンセラー(R)
+culture,1,LGBT基礎理解検定™
+culture,2,ニュース時事能力検定 (N検)
+culture,2,実用理科技能検定
+culture,2,世界遺産検定
+culture,2,美術検定
+culture,2,硬筆書写技能検定
+culture,2,毛筆書写技能検定
+culture,2,歴史能力検定 (歴検)
+culture,2,ことわざ検定
+culture,2,ジュニアマナーズ検定/キャリアマナーズ検定
+culture,2,略語検定
+culture,2,四字熟語検定
+culture,2,敬語力検定
+culture,2,神社検定（神道文化検定）
+culture,2,和食検定
+culture,2,夜景観光士検定
+culture,2,天文宇宙検定
+culture,2,星空宇宙天文検定
+culture,2,地図地理検定
+culture,2,運転地理検定
+culture,2,くるまマイスター検定
+culture,2,茶道文化検定
+culture,2,編物技能検定
+culture,2,きもの文化検定
+culture,2,和裁検定試験
+culture,2,レザーソムリエ
+culture,2,天然石検定
+culture,2,日本城郭検定
+culture,2,大相撲検定
+culture,2,考古検定
+culture,2,アンティーク検定
+culture,2,中国百科検定
+culture,2,古文書解読検定
+culture,2,朗読検定
+culture,2,ユニバーサルマナー検定
+culture,2,箸検定
+culture,2,諸橋轍次記念 漢字文化理解力検定
+culture,2,聖書検定
+culture,2,日本仏教検定(仏検)
+culture,2,仏教検定試験
+culture,2,密教検定試験
+culture,2,弘法大師検定試験
+culture,2,新選組検定
+culture,2,全国道の駅検定
+it,1,ITパスポート試験 (iパス)
+it,1,マイクロソフト オフィス スペシャリスト (MOS)
+it,1,インターネット検定　ドットコムマスター
+it,1,文書処理能力検定
+it,1,ITコーディネータ
+it,1,コンピュータサービス技能評価試験
+it,1,情報検定 (J検)
+it,1,Web検定
+it,1,P検 - ICTプロフィシエンシー検定試験
+it,1,リモート実務検定
+it,1,VBAエキスパート
+it,1,Word文書処理技能認定試験
+it,1,Excel(R)表計算処理技能認定試験
+it,1,リテールAI検定
+it,1,DXアドバイザー検定
+it,1,IoT検定
+it,1,Accessビジネスデータベース技能認定試験
+it,1,Mcframe認定試験
+it,1,ICDL
+it,1,データ分析実務スキル検定
+it,1,データサイエンティスト検定™リテラシーレベル
+it,1,SEO検定
+it,1,検索技術者検定
+it,1,タッチタイピング検定
+it,1,マイクロソフト認定トレーナー (MCT)
+it,1,パソコンインストラクター資格認定
+it,1,日商PC検定試験
+it,1,日商マスター
+it,1,Webアナリスト検定
+it,1,SNSエキスパート検定
+it,1,EXIN BCS SIAM(R)（サービス・インテグレーションとマネジメント）
+it,1,EXIN DevOpsマスター
+it,1,EXINアジャイルスクラム
+it,1,ITIL(R)認定資格
+it,1,ソフトウェア品質技術者資格試験(JCSQE)
+it,1,情報システム取引者
+it,1,RTXルーター検定 for VPN
+it,1,インターネット実務検定試験(I検)
+it,1,CompTIA CTT+
+it,1,Googleデジタルワークショップ
+it,1,Googleアナリティクス個人認定資格(GAIQ)
+it,1,Google広告認定資格
+it,1,DXビジネス検定™
+it,1,DX検定™
+it,1,RPA技術者検定
+it,2,基本情報技術者試験
+it,2,応用情報技術者試験
+it,2,JDLA Deep Learning for GENERAL(G検定)
+it,2,パソコン整備士検定
+it,2,ITストラテジスト試験
+it,2,ネットワークスペシャリスト試験
+it,2,プロジェクトマネージャ試験
+it,2,システムアーキテクト試験
+it,2,データベーススペシャリスト試験
+it,2,ITサービスマネージャ試験
+it,2,エンべデッドシステムスペシャリスト試験
+it,2,システム監査技術者試験
+it,2,情報処理安全確保支援士試験
+it,2,情報セキュリティマネジメント試験
+it,2,LinuC（Linux技術者認定資格 リナック）
+it,2,LPIC
+it,2,HTML5プロフェッショナル認定資格
+it,2,OPCEL認定試験(OpenStack技術者認定試験)
+it,2,シスコ技術者認定
+it,2,I C 3
+it,2,OSS-DB技術者認定資格
+it,2,オラクル認定MySQL認定資格
+it,2,オラクル認定Java資格
+it,2,オラクルマスター
+it,2,Java™プログラミング能力認定試験
+it,2,C言語プログラミング能力認定試験
+it,2,AWS認定資格
+it,2,AI検定
+it,2,AI実装検定
+it,2,人工知能プロジェクトマネージャー試験
+it,2,IoTシステム技術検定試験
+it,2,実践プログラミング技術者試験
+it,2,情報処理技術者能力認定試験
+it,2,XMLマスター
+it,2,PHP技術者認定試験
+it,2,Python試験
+it,2,CIW資格
+it,2,Ruby技術者認定試験制度
+it,2,CompTIA A+
+it,2,CompTIA IT Fundamentals+
+it,2,CompTIA Security+
+it,2,ディジタル技術検定
+it,2,ウェブ解析士
+it,2,日商プログラミング検定
+it,2,CATV技術者
+it,2,JSTQB認定テスト技術者資格
+it,2,IT検証技術者認定試験(IVEC)
+it,2,ETEC(JASA組込みソフトウェア技術者試験）
+it,2,OMG認定資格試験
+it,2,モバイルシステム技術検定試験
+it,2,モバイル技術基礎検定
+it,2,アジャイルソフトウエア開発技術者検定試験
+it,2,Android™ 技術者認定試験制度
+it,2,半導体技術者検定
+it,2,仮想化基礎検定
+it,2,CompTIA Server+
+it,2,CompTIA Network+
+it,3,CG-ARTS検定
+it,3,ウェブデザイン技能検定
+it,3,DTP検定
+it,3,DTPエキスパート
+it,3,JaGra認定DTPオペレーション技能テスト(JCST)
+it,3,UMTP認定試験
+it,3,Space Designer検定試験
+it,3,3Dプリンター活用技術検定試験
+it,3,CAD利用技術者試験
+it,3,CAD実務キャリア認定制度
+it,3,建築CAD検定試験
+it,3,Illustrator(R)クリエイター能力認定試験
+it,3,Photoshop(R)クリエイター能力認定試験
+it,3,Webクリエイター能力認定試験
+it,3,YouTube認定資格プログラム
+language,1,実用英語技能検定(英検)
+language,1,TOEIC(R) Listening & Reading Test
+language,1,TOEIC(R) Speaking & Writing Tests
+language,1,TOEIC Bridge(R) Test
+language,1,TOEFL(R) テスト
+language,1,GTEC
+language,1,TEAP
+language,1,CASEC
+language,1,IELTS
+language,1,国際連合公用語英語検定試験(国連英検)
+language,1,ケンブリッジ英語検定
+language,1,観光英語検定
+language,1,Linguaskill Business
+language,1,GCAS
+language,1,英検Jr.
+language,1,TOEFL Junior(R) Standard / TOEFL Primary(R)
+language,1,技術英語能力検定
+language,1,日商ビジネス英語検定
+language,1,iTEP
+language,1,みんなの外国語検定
+language,1,インバウンド接客外国語検定
+language,1,E-CAT
+language,1,ビジネス通訳検定（TOBIS）
+language,1,TOPEC
+language,1,英単語検定（単検）
+language,1,英会話検定
+language,1,公認英会話講師資格
+language,1,TEP TEST(R)
+language,1,日本医学英語検定
+language,1,JET (ジュニア・イングリッシュ・テスト)
+language,1,ACT
+language,1,リスニング検定（日本教科別能力検定協会）
+language,1,幼児教育・保育英語検定（幼保英検）
+language,1,CNN GLENTS
+language,1,英語応対能力検定
+language,2,実用中国語技能検定試験
+language,2,中国語検定試験
+language,2,漢語水平考試(HSK)
+language,2,華語文能力測験(TOCFL)
+language,2,中国語コミュニケーション能力検定
+language,2,実用フランス語技能検定 (仏検)
+language,2,フランス語能力認定試験 TEF
+language,2,DELF・DALF
+language,2,実用イタリア語検定
+language,2,イタリア語検定PLIDA
+language,2,ドイツ語技能検定試験
+language,2,「ハングル」能力検定
+language,2,韓国語能力試験
+language,2,スペイン語技能検定
+language,2,DELEスペイン語検定
+language,2,実用タイ語検定試験
+language,2,ロシア語能力検定
+language,2,インドネシア語技能検定試験
+language,2,ギリシャ語能力検定試験
+language,2,実用日本語検定
+language,2,日本語能力試験
+language,2,BJTビジネス日本語能力テスト
+language,2,エスペラント学力検定
+language,2,C.TEST(実用中国語レベル認定試験)
+language,2,TCF フランス語能力テスト
+language,3,通関士
+language,3,貿易実務検定(R)
+language,3,通関ビジネス実務検定™
+language,3,AIBA認定 貿易アドバイザー試験
+language,3,EPAビジネス実務検定🄬
+language,3,全国通訳案内士
+language,3,翻訳実務検定(TQE)
+language,3,JTA公認　翻訳専門職資格試験
+language,3,JTFほんやく検定
+language,3,文芸翻訳検定
+language,3,一般通訳検定
+language,3,インバウンド実務主任者
+finance,1,税理士
+finance,1,財務報告実務検定
+finance,1,弥生検定
+finance,1,FASS検定 (経理・財務スキル検定)
+finance,1,消費税法能力検定
+finance,1,所得税法能力検定
+finance,1,法人税法能力検定
+finance,1,プロフェッショナルCFO資格
+finance,1,認定ファンドレイザー
+finance,2,ファイナンシャル・プランニング技能検定
+finance,2,ファイナンシャル・プランナー (AFP/CFP(R))
+finance,2,銀行業務検定試験
+finance,2,金融業務能力検定
+finance,2,外務員
+finance,2,外務員登録資格試験
+finance,2,証券アナリスト (CMA(R))
+finance,2,少額短期保険募集人試験
+finance,2,DCプランナー認定試験 (金財・日商)
+finance,2,アクチュアリー
+finance,2,金融窓口サービス技能士
+finance,2,保険仲立人試験
+finance,2,CFA(R) (CFA協会認定証券アナリスト)
+finance,2,AMLオフィサー認定試験
+finance,2,住宅ローン診断士
+finance,2,ビジネス実務与信管理検定試験
+finance,2,投資診断士(R)
+finance,2,プライベートバンカー資格
+finance,2,相続診断士
+finance,3,日商簿記検定
+finance,3,公認会計士
+finance,3,簿記能力検定
+finance,3,貸金業務取扱主任者
+finance,3,ビジネス会計検定試験(R)
+finance,3,BATIC (国際会計検定)®
+finance,3,コンピュータ会計能力検定
+finance,3,電子会計実務検定
+finance,3,会計ファイナンシャル検定
+finance,3,米国公認会計士 (USCPA)
+finance,3,IFRS検定(国際会計基準検定)
+finance,3,農業簿記検定
+finance,3,社会福祉会計簿記認定試験
+finance,3,建設業経理士／建設業経理事務士
+finance,3,資金繰り診断士
+finance,3,P/L・B/Sアナリスト検定
+medical,1,登録販売者
+medical,1,薬剤師
+medical,1,医師
+medical,1,看護師
+medical,1,歯科医師
+medical,1,歯科衛生士
+medical,1,歯科技工士
+medical,1,作業療法士
+medical,1,理学療法士
+medical,1,臨床検査技師
+medical,1,臨床工学技士
+medical,1,心電図検定
+medical,1,助産師
+medical,1,看護力検定(R)
+medical,1,予防医療検定
+medical,1,診療放射線技師
+medical,1,救急救命士試験
+medical,1,はり師
+medical,1,きゅう師
+medical,1,あん摩マッサージ指圧師試験
+medical,1,柔道整復師
+medical,1,スポーツ医学検定
+medical,1,カイロプラクター登録試験(JCR登録試験)
+medical,1,細胞検査士試験
+medical,1,准看護師
+medical,1,AED管理士
+medical,1,救命講習
+medical,2,ケア クラーク(R)技能認定試験
+medical,2,医療事務管理士(R)
+medical,2,調剤事務管理士(R)
+medical,2,診療情報管理士
+medical,2,診療報酬請求事務能力認定試験
+medical,2,ホスピタルコンシェルジュ(R)検定試験
+medical,2,医療秘書技能検定試験
+medical,2,医事コンピュータ技能検定
+medical,2,医療事務技能審査試験(メディカル クラーク(R))
+medical,2,介護事務管理士®
+medical,2,医師事務作業補助技能認定試験(ドクターズクラーク(R))
+medical,2,メディカルケアワーカー(R)検定試験
+medical,2,医師事務作業補助業務実務能力認定試験
+medical,2,労災事務管理士
+medical,2,在宅診療報酬事務管理士®
+medical,2,DPC/PDPS初級検定試験
+medical,2,医師事務作業補助者検定試験（ドクターズオフィスワークアシスト(R)）
+medical,2,レセプト管理士
+medical,2,医療事務検定試験
+medical,3,介護支援専門員 (ケアマネジャー)
+medical,3,社会福祉士
+medical,3,介護福祉士
+medical,3,精神保健福祉士
+medical,3,介護職員初任者研修
+medical,3,ケア・コミュニケーション検定
+medical,3,福祉住環境コーディネーター検定試験®
+medical,3,福祉ロボット検定
+medical,3,レクリエーション・インストラクター
+medical,3,サービス介助士
+medical,3,介護食士
+medical,3,介護口腔ケア推進士検定試験
+medical,3,行動援護従業者
+medical,3,介護予防指導士
+medical,3,認知症ケア指導管理士
+medical,3,認知症ライフパートナー検定試験
+medical,3,認知症予防活動支援士
+medical,3,認知症予防支援相談士 認定試験
+medical,3,高齢者住まいアドバイザー検定(R)
+medical,3,保健師
+medical,3,ウェルフェア・コンシェルジュ(R)初級検定試験
+medical,3,認定福祉理容介護師(R)/認定福祉美容介護師(R)
+medical,3,福祉用具専門相談員
+medical,3,手話通訳士試験
+medical,3,言語聴覚士
+medical,3,手話技能検定
+medical,3,視能訓練士
+medical,3,産後ケアリスト認定講座
+medical,3,こども環境管理士
+medical,3,高齢社会検定試験
+medical,3,看護教養認定資格
+medical,3,義肢装具士
+medical,3,高齢者入浴アドバイザー
+health,1,ヘルスケアプランナー検定
+health,1,日本健康マスター検定
+health,1,健康管理能力検定
+health,1,健康検定
+health,1,アロマテラピー検定
+health,1,メディカルハーブ検定
+health,1,ハーブ＆ライフ検定
+health,1,ナチュラルビューティスタイリスト検定
+health,1,栄養検定
+health,1,姿勢検定試験
+health,1,ダイエット検定
+health,1,入浴検定
+health,1,薬学検定／美容薬学検定／食の薬学検定
+health,1,生涯筋活アドバイザー検定
+health,1,フィットネスクラブ・マネジメント技能検定
+health,1,JREC認定リフレクソロジスト
+health,1,フーレセラピスト
+health,1,PAH (Professional Adviser of Herb)
+health,1,国際薬膳師（士）
+health,1,中医薬膳師
+health,1,メディカルサプリメントアドバイザー
+health,1,健康運動指導士
+health,1,健康運動実践指導者
+health,1,JNFサプリメントアドバイザー
+health,1,嗅覚反応分析士
+health,1,健康ソムリエ®
+health,1,女性の健康検定
+health,1,予防医学士(R)プログラム
+health,1,アロマテラピーインストラクター
+health,1,アロマテラピーアドバイザー
+health,1,シューフィッター
+health,1,健康生きがいづくりアドバイザー
+health,1,オーガニックコンシェルジュ
+health,2,キャリアコンサルタント試験
+health,2,産業カウンセラー
+health,2,こころ検定®
+health,2,メンタルヘルス・マネジメント(R)検定試験
+health,2,公認心理師
+health,2,臨床心理士
+health,2,ビジネス心理検定
+health,2,心理学検定
+health,2,メンタルケアカウンセラー(R)
+health,2,アンガーマネジメントファシリテーター
+health,2,一般社団法人全国心理業連合会公認 全国統一認定資格 プロフェッショナル心理カウンセラー
+health,2,日本メンタルトレーナー協会　メンタルトレーニング検定
+health,2,認定臨床心理カウンセラー
+health,2,EAPメンタルヘルスカウンセラー資格（eMC資格）
+health,2,全心連公認ストレスチェックコンサルタント
+health,2,仏教セラピスト
+health,2,仏教カウンセラー
+health,2,自立型セルフマネジメント検定
+health,3,ライフセーバー
+health,3,アマチュア野球公認審判員
+health,3,トレーニングプロジェクト・アドバイザー™ 認定資格（NPMO認定TPJ-A™）
+health,3,スクーバダイビング
+health,3,水泳指導管理士
+health,3,エイベックス・ストリートダンス検定
+health,3,NASM認定パーソナルトレーナー
+health,3,NASM認定コレクティブエクササイズスペシャリスト
+health,3,NASM認定ゴルフフィットネススペシャリスト
+health,3,NASM認定グループ・パーソナルトレーニングスペシャリスト
+health,3,騎手 (日本中央競馬会)
+health,3,日本中央競馬会調教師
+health,3,地方競馬調教師
+health,3,地方競馬騎手 (地方競馬教養センター)
+health,3,競輪選手 (日本競輪学校)
+health,3,オートレース審判員
+health,3,オートレース選手 (選手候補生)
+health,3,ボートレーサー
+health,3,ボートレース審判員
+health,3,ダンス教育指導士
+health,3,ダンス療育指導士
+health,3,ダンス介護予防指導士
+health,3,AJYAヨガインストラクター
+health,3,AFAA(ATHLETICS and FITNESS ASSOCIATION of AMERICA)
+health,3,AFAA IGFI(International Group Fitness Instructor)
+health,3,AFAA RT(Resistance Training)、PFT(Personal Fitness Trainer)
+health,3,AFAA YOGA
+health,3,AFAA PILATES
+health,3,基礎水泳指導員
+beauty,1,理容師
+beauty,1,美容師
+beauty,1,日本化粧品検定
+beauty,1,JMA日本メイクアップ技術検定試験
+beauty,1,化粧品成分検定
+beauty,1,ネイリスト技能検定試験
+beauty,1,ネイルスペシャリスト技能検定試験
+beauty,1,JNAジェルネイル技能検定
+beauty,1,ネイルサロン衛生管理士
+beauty,1,メイクセラピー検定
+beauty,1,日本メイクアップ知識検定試験
+beauty,1,ヘアケアマイスター認定資格
+beauty,1,スキンケアマイスター/コスメマイスター
+beauty,1,スキンケアアドバイザー
+beauty,1,スキンケアカウンセラー
+beauty,1,スキンケアフェイシャリスト
+beauty,1,メンタルメイクセラピスト(R)検定
+beauty,1,ブライズビューティマイスター
+beauty,1,アロマセラピスト
+beauty,1,AJESTHE認定エステティシャン
+beauty,2,パターンメーキング技術検定
+beauty,2,繊維テキスタイル認定資格
+beauty,2,デザイン基礎認定資格
+beauty,2,サステナブルファッション品質管理認定資格
+beauty,2,骨格診断ファッションアナリスト検定
+beauty,2,繊維製品品質管理士 (TES)
+beauty,2,衣料管理士 (TA:Textiles Advisor)
+beauty,2,繊維ファッションビジネス認定資格
+beauty,2,ファッション色彩能力検定
+beauty,2,ファッション販売能力検定
+beauty,2,ファッションビジネス能力検定
+beauty,2,衣類品販売認定資格
+beauty,2,着付け技能検定
+realestate,1,宅地建物取引士 (宅建士)
+realestate,1,マンション管理士
+realestate,1,賃貸不動産経営管理士
+realestate,1,管理業務主任者
+realestate,1,土地家屋調査士
+realestate,1,不動産流通実務検定
+realestate,1,不動産実務検定
+realestate,1,不動産鑑定士
+realestate,1,不動産コンサルティング技能試験
+realestate,1,不動産キャリアパーソン
+realestate,1,競売不動産取扱主任者
+realestate,1,ビル経営管理士
+realestate,1,土地活用プランナー®
+realestate,1,JSHI公認ホームインスペクター資格試験
+realestate,1,住宅販売士
+realestate,1,敷金診断士
+realestate,1,マンション投資アナリスト
+realestate,1,シックハウス診断士
+realestate,1,住宅建築コーディネーター
+realestate,1,投資不動産取引士
+realestate,1,住宅ローンアドバイザー
+realestate,1,不動産戦略アドバイザー
+realestate,1,宅建マイスター
+realestate,1,赤外線建物診断技能師
+realestate,1,民泊適正管理主任者
+realestate,1,不動産知識検定
+realestate,1,サブリース建物取扱主任者
+realestate,1,賃貸生活マナー検定
+realestate,1,マンション査定士MA資格試験
+realestate,2,建築士
+realestate,2,測量士／測量士補
+realestate,2,マンション維持修繕技術者
+realestate,2,建築施工管理技士
+realestate,2,土木施工管理技士
+realestate,2,管工事施工管理技士
+realestate,2,建設機械施工技士
+realestate,2,建築設備士
+realestate,2,土地区画整理士技術検定
+realestate,2,コンクリート技士/コンクリート主任技士
+realestate,2,昇降機等検査員
+realestate,2,リフォーム提案士(R)
+realestate,2,古民家鑑定士
+realestate,2,伝統再築士
+realestate,2,足場の組立て等作業主任者
+realestate,2,土木技術検定試験
+food,1,管理栄養士
+food,1,栄養士
+food,1,調理師
+food,1,食生活アドバイザー®
+food,1,日本ビール検定(びあけん)
+food,1,J.S.A.ワイン検定
+food,1,J.S.A.ソムリエ
+food,1,J.S.A.ワインエキスパート
+food,1,ワイン検定(ANSA)
+food,1,ワインコーディネーター ・ソムリエ(ANSA)
+food,1,International A.S.I. Sommelier Diploma認定試験
+food,1,家庭料理技能検定 (料検)
+food,1,フードコーディネーター資格認定試験
+food,1,フードアナリスト検定試験
+food,1,ヘルスフードカウンセラー
+food,1,野菜ソムリエ
+food,1,食品表示検定
+food,1,調理技術審査試験／調理技能検定試験
+food,1,ふぐ調理師
+food,1,日本茶インストラクター
+food,1,料理検定
+food,1,菓子検定
+food,1,J.S.A. SAKE DIPLOMA認定試験
+food,1,ウイスキー検定
+food,1,日本酒検定
+food,1,唎酒師
+food,1,SAKE EXPERT
+food,1,給食サービス士
+food,1,スパイス&ハーブ検定
+food,1,和ハーブ検定
+food,1,パンシェルジュ検定
+food,1,発酵検定
+food,1,紅茶検定
+food,1,お好み焼き検定
+food,1,C.P.A.チーズ検定
+food,1,チョコレート検定
+food,1,日本ラーメン検定
+food,1,ラーメンソムリエ検定
+food,1,フライドポテト・アンバサダー検定
+food,1,唐揚検定
+food,1,ビ－ガン検定(旧：べジライフスタイリスト)
+food,1,青汁マイスター(R)
+food,1,雑穀エキスパート
+food,1,玄米マイスター
+food,1,納豆真打検定
+food,1,ソイオイルマイスター検定
+food,1,WSET(R)認定資格（WSET=Wine & Spirit Education Trust)
+food,1,WSET(R) SAKE認定資格（WSET=Wine & Spirit Education Trust)
+food,1,アクアソムリエ
+food,1,中国茶アドバイザー
+food,1,焼肉コンシェルジュ検定
+food,1,薬膳・漢方検定
+food,1,マグロ解体師
+food,1,ドライフルーツ＆ナッツマイスター検定／エキスパート検定
+food,1,食の検定
+food,1,弁当サービス管理士
+food,1,バーベキュー検定
+food,1,だしソムリエ
+food,2,食品衛生責任者
+food,2,食品衛生管理者
+food,2,食品安全検定
+food,2,製菓衛生師
+lifestyle,1,リテールマーケティング (販売士) 検定
+lifestyle,1,ホスピタリティ検定試験
+lifestyle,1,家電製品資格試験
+lifestyle,1,ネットショップ実務士
+lifestyle,1,フォーマルスペシャリスト検定
+lifestyle,1,お客様対応専門員（CAP）
+lifestyle,1,サービス接遇検定
+lifestyle,1,おもてなし学検定
+lifestyle,1,小売業 計数能力検定
+lifestyle,1,鍵師技能検定試験
+lifestyle,1,ピアノ調律技能検定
+lifestyle,1,小売電気アドバイザー
+lifestyle,1,スマートフォン・モバイル実務検定
+lifestyle,1,太陽光発電アドバイザー
+lifestyle,1,セールスレップ資格認定制度
+lifestyle,1,販路コーディネータ検定試験
+lifestyle,1,移動販売コーディネーター
+lifestyle,1,電話応対技能検定(もしもし検定)
+lifestyle,1,景品表示法務検定試験
+lifestyle,2,消費生活アドバイザー
+lifestyle,2,防災検定
+lifestyle,2,ジュニア防災検定
+lifestyle,2,災害備蓄管理士
+lifestyle,2,防災備蓄収納プランナー
+lifestyle,2,消費生活専門相談員
+lifestyle,2,DIYアドバイザー
+lifestyle,2,DIYリフォームアドバイザー®
+lifestyle,2,整理収納アドバイザー
+lifestyle,2,掃除能力検定
+lifestyle,2,住空間収納プランナー
+lifestyle,2,クリンネスト資格
+lifestyle,2,スローライフ・マイスター検定
+lifestyle,2,ライフスタイルプランナー
+lifestyle,2,警備業務検定
+lifestyle,2,家政士
+lifestyle,2,共生社会コミュニケーション検定
+lifestyle,3,総合/国内旅行業務取扱管理者
+lifestyle,3,旅程管理主任者
+lifestyle,3,旅行地理検定
+lifestyle,3,添乗員能力資格認定試験
+lifestyle,3,ホテル・マネジメント技能検定
+lifestyle,3,ホテルビジネス実務検定試験(H検)
+lifestyle,3,ホテル実務技能認定試験
+lifestyle,3,イベント検定／スポーツイベント検定／ユニバーサルイベント検定
+lifestyle,3,イベント業務管理士
+lifestyle,4,ブライダルプランナー検定
+lifestyle,4,ブライダルコーディネート技能検定
+lifestyle,4,葬祭ディレクター
+lifestyle,4,お墓ディレクター
+lifestyle,4,仏教葬祭アドバイザー
+lifestyle,4,葬送儀礼マナー検定
+lifestyle,4,終活カウンセラー
+lifestyle,4,終活コーディネーター
+lifestyle,4,遺品整理士
+ecology,1,気象予報士
+ecology,1,環境社会検定試験(ｅｃｏ検定)®
+ecology,1,一般計量士
+ecology,1,環境計量士
+ecology,1,日本農業検定
+ecology,1,環境法令検定
+ecology,1,日本農業技術検定
+ecology,1,ビオトープ管理士
+ecology,1,臭気判定士
+ecology,1,樹木医
+ecology,1,造園施工管理技士
+ecology,1,省エネ・脱炭素エキスパート検定
+ecology,1,公害防止管理者
+ecology,1,東京都公害防止管理者
+ecology,1,3R・低炭素社会検定
+ecology,1,環境カオリスタ検定
+ecology,1,環境管理士
+ecology,1,産業廃棄物適正管理能力検定
+ecology,1,うちエコ診断士資格試験
+ecology,1,環境アレルギーアドバイザー
+ecology,1,化学物質過敏症サポーター
+ecology,1,グリーンセイバー資格検定
+ecology,1,グリーンアドバイザー
+ecology,1,森林インストラクター
+ecology,1,環境再生医
+ecology,1,土壌医検定
+ecology,1,キャンプインストラクター
+ecology,1,環境アセスメント士（生活環境部門/自然環境部門）
+ecology,1,アウトドア検定
+ecology,1,登山ガイド
+ecology,1,狩猟免許
+ecology,2,生物分類技能検定
+ecology,2,認定動物看護師
+ecology,2,獣医師
+ecology,2,愛玩動物看護師
+ecology,2,ペットロス・ハートケアカウンセラー™検定試験
+ecology,2,アニマル・ペットロス療法士(R)認定試験
+ecology,2,ペットフード／ペットマナー検定
+ecology,2,ホリスティックケア・カウンセラー
+ecology,2,トリマー
+ecology,2,犬訓練士
+ecology,2,ドッグトレーナーライセンス
+ecology,2,ドッグライフカウンセラー
+ecology,2,ペット共生住宅管理士検定
+ecology,2,ペットオーナー検定
+ecology,2,愛玩動物飼養管理士
+ecology,2,認定ペットシッター
+ecology,2,猫との住まいアドバイザー(R)
+ecology,2,愛犬家住宅コーディネーター
+ecology,2,キャット・グルーミング・スペシャリスト(CGS)
+ecology,2,ペットBLS検定
+public,1,国家公務員総合職
+public,1,国家公務員一般職
+public,1,地方公務員
+public,1,IMF (国際通貨基金) 専門職員
+public,1,JPO 派遣候補者選考試験
+public,1,外務省専門職員
+public,1,財務専門官
+public,1,国税専門官
+public,1,労働基準監督官
+public,1,警視庁警察官
+public,1,東京消防庁消防官
+public,1,入国警備官
+public,1,刑務官
+public,1,衆議院事務局職員
+public,1,参議院事務局職員
+public,1,衆議院事務局衛視／参議院事務局衛視
+public,1,衆議院法制局職員総合職／参議院法制局職員総合職
+public,1,司書 (司書補)
+public,1,国立国会図書館職員
+public,1,法務省専門職員 (人間科学)
+public,1,裁判所職員一般職
+public,1,裁判所職員総合職
+public,1,海上保安学校学生
+public,1,海上保安大学校学生
+public,1,航空保安大学校学生
+public,1,気象大学校学生
+public,1,皇宮護衛官
+public,1,防衛省専門職員
+public,1,保護司
+public,1,自衛官候補生
+public,1,自衛隊幹部候補生 
+public,2,高等学校教諭普通免許状
+public,2,小学校教諭普通免許状
+public,2,中学校教諭普通免許状
+public,2,小学校教員資格認定試験
+public,2,幼稚園教諭普通免許状
+public,2,特別支援学校教諭免許状
+public,2,保育士
+public,2,高等学校卒業程度認定試験
+public,2,学校図書館司書教諭
+public,2,日本語教育能力検定試験
+public,2,実践保育力検定
+public,2,発達障害児支援士
+public,2,児童発達支援士
+public,2,発達障害コミュニケーションサポーター
+public,2,発達障害学習支援サポーター(R)
+public,2,チャイルドマインダー
+public,2,音楽能力検定制度 (ヤマハグレード)
+public,2,リトミック指導員資格
+public,2,絵画指導インストラクター
+public,2,おもちゃコンサルタント
+public,2,留学アドバイザー
+public,2,進路アドバイザー検定
+public,2,学芸員
+public,2,学習塾教室長検定🄬
+transport,1,自動車運転免許
+transport,1,自動車整備士
+transport,1,移動式クレーン運転士
+transport,1,クレーン・デリック運転士
+transport,1,ショベルローダー等運転技能者
+transport,1,運行管理者
+transport,1,整備管理者
+transport,1,中古自動車査定士
+transport,1,指定自動車教習所指導員
+transport,1,自動車検査員
+transport,1,動力車操縦者
+transport,1,運航管理者
+transport,1,物流現場改善士
+transport,1,国際物流管理士
+transport,1,ロジスティクス経営士
+transport,1,物流技術管理士
+transport,1,自動車電気装置整備士
+transport,1,運輸業検定試験
+transport,2,ドローン検定
+transport,2,航空検定
+transport,2,定期運送用操縦士 (飛行機/回転翼)
+transport,2,事業用操縦士 (飛行機/回転翼)
+transport,2,事業用操縦士 (滑走機/飛行船)
+transport,2,自家用操縦士 (飛行機/回転翼)
+transport,2,自家用操縦士 (滑空機/飛行船)
+transport,2,航空整備士／航空運航整備士
+transport,2,航空工場整備士
+transport,2,航空検査技術者
+transport,2,航空管制官
+transport,2,航空客室受験指導員
+transport,2,航空客室乗務員検定
+transport,3,小型船舶操縦士
+transport,3,海技士 (航海)
+transport,3,海技士 (機関)
+transport,3,海技士 (通信/電子通信)
+transport,3,内燃機関海技士 (機関)
+transport,3,船橋当直3級海技士(航海)
+transport,3,機関当直3級海技士(機関)
+transport,3,船内荷役作業主任者
+transport,3,水先人
+transport,3,潜水士
+transport,3,海事補佐人
+transport,3,救命艇手・限定救命艇手
+transport,3,船の文化検定（ふね検）
+transport,4,アマチュア無線技士
+transport,4,総合無線通信士
+transport,4,陸上特殊無線技士
+transport,4,陸上無線技術士
+transport,4,航空無線通信士
+transport,4,航空特殊無線技士
+transport,4,海上無線通信士
+transport,4,海上特殊無線技士
+safety,1,危険物取扱者
+safety,1,技術士／技術士補
+safety,1,生産マイスター検定
+safety,1,高圧ガス製造保安責任者
+safety,1,高圧ガス販売主任者
+safety,1,高圧ガス移動監視者
+safety,1,特定高圧ガス取扱主任者
+safety,1,液化石油ガス設備士
+safety,1,ガス主任技術者
+safety,1,To-BeエンジニアWeb試験
+safety,1,プロフェッショナル エンジニアリング (PE) 試験
+safety,1,ファンダメンタルズ オブエンジニアリング (FE) 試験
+safety,1,ガス溶接作業主任者
+safety,1,ボイラー技士
+safety,1,ボイラー整備士
+safety,1,ボイラー溶接士
+safety,1,小規模ボイラー取扱者
+safety,1,ボイラー・タービン主任技術者
+safety,1,ステンレス鋼溶接技能者検定
+safety,1,アルミニウム溶接技能者
+safety,1,火薬類 (製造・取扱) 保安責任者
+safety,1,放射線取扱主任者
+safety,1,エックス線作業主任者
+safety,1,毒物劇物取扱責任者
+safety,1,毒物劇物取扱者
+safety,1,普通第1種圧力容器取扱作業主任者
+safety,1,発破技士
+safety,1,核燃料取扱主任者
+safety,1,冷凍機械責任者
+safety,2,河川技術者資格
+safety,2,機械保全技能検定
+safety,2,自主保全士検定
+safety,2,消防設備士
+safety,2,消防設備点検資格者
+safety,2,防火対象物点検資格者
+safety,2,防災管理点検資格者
+safety,2,自衛消防技術試験
+safety,2,建築物環境衛生管理技術者
+safety,2,労働安全コンサルタント
+safety,2,労働衛生コンサルタント
+safety,2,作業環境測定士
+safety,2,エネルギー管理士 
+safety,2,To-Beメンテナンス技術Web試験
+safety,2,建築設備検査員
+safety,2,非破壊試験技術者資格試験
+safety,2,下水道管理技術認定試験/下水道技術検定
+safety,2,地下タンク等定期点検技術者
+safety,2,廃棄物処理施設技術管理者
+safety,2,酸素欠乏・硫化水素危険作業主任者
+safety,2,浄化槽設備士
+safety,2,浄化槽管理士
+safety,2,設備士資格検定試験
+safety,2,冷凍空調技士
+safety,2,自転車安全整備士
+safety,2,自転車技士
+safety,2,防犯設備士
+safety,2,防災士
+safety,2,セーフティベーシックアセッサ 機械運用安全分野資格(SBA-Mo)
+safety,2,セーフティベーシックアセッサ 防爆電気機器安全分野資格(SBA-Ex)
+safety,2,セーフティアセッサ(SSA/SA/SEA/SLA)安全資格認証制度
+safety,2,ロボットセーフティアセッサ安全資格認証制度
+safety,2,計装士
+safety,2,太陽光発電メンテナンス技士
+safety,2,防火管理者
+safety,3,電気主任技術者
+safety,3,電気工事士
+safety,3,電気通信主任技術者
+safety,3,電気通信の工事担任者
+safety,3,電気工事施工管理技士
+safety,3,情報配線施工技能検定
+entertainment,1,京都・観光文化検定試験
+entertainment,1,福岡検定
+entertainment,1,東京シティガイド検定
+entertainment,1,なにわなんでも大阪検定
+entertainment,1,名古屋観光検定
+entertainment,1,姫路検定
+entertainment,1,目黒観光検定
+entertainment,1,甲賀流忍者検定
+entertainment,1,高崎学検定
+entertainment,1,中央区観光検定
+entertainment,1,新潟清酒達人検定
+entertainment,1,軽井沢WEB検定
+entertainment,1,岐阜市まちなか博士認定試験
+entertainment,1,みえ検定
+entertainment,1,宝塚学検定
+entertainment,1,奈良まほろばソムリエ検定
+entertainment,1,あわ検定
+entertainment,1,せとやきっず検定
+entertainment,1,かめおか・ふるさと検定
+entertainment,1,伊賀学検定
+entertainment,1,検定「お伊勢さん」
+entertainment,1,信長の台所歴史検定「津島の達人」
+entertainment,1,糸魚川ジオパーク検定
+entertainment,1,NAGANO検定
+entertainment,1,ふるさと小松検定
+entertainment,1,金沢検定
+entertainment,1,ようこそ！かわさき検定
+entertainment,1,水戸歴史文化検定
+entertainment,1,鎌倉検定
+entertainment,1,宮城マスター検定
+entertainment,1,いばらき観光マイスター認定試験
+entertainment,1,ナマハゲ伝導士
+entertainment,1,あおもり食育検定
+entertainment,1,秋田ふるさと検定
+entertainment,1,盛岡もの識り検定
+entertainment,1,北海道観光マスター検定
+entertainment,1,瀬戸焼検定
+entertainment,1,新ふるさと日立検定
+entertainment,1,加賀ふるさと検定
+entertainment,1,しらかわ検定
+entertainment,1,十勝の観光文化検定
+entertainment,1,旭川大雪観光文化検定試験
+entertainment,1,函館歴史文化観光検定(はこだて検定)
+entertainment,1,北海道フードマイスター検定
+entertainment,1,かごしま検定
+entertainment,1,みやざき観光・文化検定
+entertainment,1,熊本・観光文化検定
+entertainment,1,長崎歴史文化観光検定
+entertainment,1,やまぐち歴史・文化・自然検定
+entertainment,1,萩検定
+entertainment,1,唐津検定
+entertainment,1,境港妖怪検定
+entertainment,2,クイズ検定
+entertainment,2,謎解き能力検定
+entertainment,2,タオルソムリエ資格試験
+entertainment,2,ねこ検定
+entertainment,2,似顔絵検定
+entertainment,2,漫画能力検定
+entertainment,2,銭湯検定
+entertainment,2,温泉ソムリエ
+entertainment,2,名探偵コナン検定
+entertainment,2,声優能力検定
+entertainment,2,野球知識検定
+entertainment,2,シルクロード検定
+entertainment,2,かき氷検定
+office,1,秘書検定
+office,1,ビジネス文書検定
+office,1,ビジネス実務マナー検定
+office,1,マーケティング検定
+office,1,日経TEST (日経経済知力テスト)
+office,1,ビジネス能力検定ジョブパス (B検)
+office,1,ビジネス・キャリア検定試験
+office,1,統計検定
+office,1,ビジネス数学検定
+office,1,文書情報管理士
+office,1,記録情報管理士
+office,1,電子ファイリング検定
+office,1,ファイリング・デザイナー検定
+office,1,通販エキスパート検定
+office,1,公文書管理検定
+office,1,コンタクトセンター検定試験
+office,1,CSスペシャリスト検定
+office,1,給与計算実務能力検定試験
+office,1,計算実務能力検定
+office,1,電卓技能検定試験
+office,1,電卓計算能力検定
+office,1,ビジネス計算実務検定
+office,1,プレ検(R)(プレゼンテーション検定)
+office,1,プレゼンテーション検定 presented by PA
+office,1,コミュニケーション検定
+office,1,Communication Exam.(C-Exam.)
+office,1,社会人常識マナー検定
+office,1,実用マナー検定
+office,1,接客サービスマナー検定
+office,1,CBS (国際秘書) 検定
+office,1,米国上級秘書資格 (CAP)
+office,1,PMP(R)試験
+office,1,ITプランニング・セールス検定 (ITPS)
+office,1,P2M資格試験
+office,1,マイナンバー実務検定
+office,1,PRプランナー
+office,1,ビジネスマネジャー検定試験®
+office,1,マーケティング・ビジネス実務検定(R)
+office,1,公認モチベーション・マネジャー
+office,1,ネットマーケティング検定
+office,1,VEリーダー
+office,1,速記技能検定
+office,1,文字起こし技能テスト
+office,1,校正士
+office,1,校正技能検定
+office,1,WEBライティング技能検定
+office,1,セールススキル検定
+office,1,経済学検定試験『EREミクロ・マクロ』
+office,1,プロジェクトマネジメント・アソシエイト™認定資格 (NPMO認定PJM-A™)
+office,1,PMOスペシャリスト™認定資格(NPMO認定PMO-S™)
+office,1,PMOスペシャリスト(★★)™認定資格 （NPMO認定PMO-S(★★)™）
+office,1,国会議員政策担当秘書
+office,1,ビジネスメール実務検定試験
+office,1,DMA公認ファンダメンタルマーケター資格(DCFM)
+office,1,スピーチ検定
+office,1,営業力強化検定(R)
+office,1,問題解決力検定
+office,1,判断力検定試験
+office,1,クラウドファンディング能力検定
+office,1,データサイエンス数学ストラテジスト
+office,1,屋外広告士試験
+office,2,司法試験
+office,2,司法試験予備試験
+office,2,行政書士
+office,2,司法書士
+office,2,弁理士
+office,2,知的財産管理技能検定
+office,2,IPLawTest（知的財産法学試験）
+office,2,法学検定試験
+office,2,ビジネス実務法務検定試験®
+office,2,ビジネス著作権検定(R)
+office,2,ビジネスコンプライアンス検定
+office,2,相続検定
+office,2,相続士資格試験
+office,2,相続カウンセル
+office,2,相続マイスター
+office,2,相続支援コンサルタント
+office,2,情報セキュリティ管理士認定試験
+office,2,情報セキュリティ初級認定試験
+office,2,個人情報保護士認定試験
+office,2,個人情報保護オフィサー
+office,2,コンプライアンス・オフィサー認定試験
+office,2,年金検定
+office,2,海事代理士
+office,2,調停人候補者
+office,2,音楽著作権管理者
+office,3,社会保険労務士 (社労士)
+office,3,衛生管理者
+office,3,ワークルール検定
+office,3,外国人雇用管理主任者
+office,3,労働時間適正管理者検定
+office,3,人事総務検定
+office,3,プロフェッショナル・キャリア・カウンセラー(R)
+office,3,派遣検定（労働者派遣契約責任者検定）
+office,3,認定エグゼクティブ・コーチ
+office,4,公認内部監査人 (CIA)
+office,4,MBA
+office,4,中小企業診断士
+office,4,IPO実務検定
+office,4,商業経済検定
+office,4,マーケティング法務検定®
+office,4,経営学検定試験（マネジメント検定）
+office,4,経営心理士
+office,4,経営倫理士
+office,4,経営者検定試験
+office,4,IPO・内部統制実務士
+office,4,企業経営アドバイザー
+office,4,経営承継アドバイザー
+office,4,品質管理検定 (QC検定)
+office,4,環境経営士
+office,4,認定ファシリティマネジャー
+office,4,医業経営コンサルタント資格
+office,4,中小企業BANTO認定試験(R)
+office,4,中小企業組合士
+office,4,FP&A（経営企画スキル検定）
+office,4,経営労務コンサルタント (正・補)
+office,4,ブランド・マネージャー資格試験
+office,4,CompTIA Project+
+office,4,SC経営士試験
+office,4,トレーナー資格試験(ブランド・マネージャー認定協会)
+office,4,コンサルタント資格試験(ブランド・マネージャー認定協会)
+creative,1,色彩検定(R)
+creative,1,カラーコーディネーター検定試験®
+creative,1,パーソナルカラリスト検定
+creative,1,骨格診断アドバイザー検定
+creative,1,フォトマスター
+creative,1,色彩士検定
+creative,1,色彩技能パーソナルカラー検定(R)
+creative,1,カラーデザイン検定
+creative,1,レタリング技能検定
+creative,1,オンラインUD検定(ユニヴァーサルデザイン検定)
+creative,1,フラワーデザイナー資格検定試験
+creative,1,プロダクトデザイン検定
+creative,1,Caring Design EXPERT
+creative,1,トレース技能検定
+creative,1,POP広告クリエイター
+creative,1,MIDI検定
+creative,1,賞状技法士
+creative,1,フォトインストラクター認定講座
+creative,2,インテリアコーディネーター
+creative,2,インテリアプランナー
+creative,2,キッチンスペシャリスト
+creative,2,リビングスタイリスト資格試験
+creative,2,マンションリフォームマネジャー
+creative,2,ホームステージャー
+creative,2,ライティングコーディネーター
+creative,2,照明士(R)
+creative,2,照明コンサルタント®
+creative,2,インテリア設計士
