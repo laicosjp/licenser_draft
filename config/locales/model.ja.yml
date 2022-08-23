@@ -2,10 +2,29 @@ ja:
   activerecord:
     models:
       account: アカウント
+      license: 資格
+      category: 分野
+      genre: ジャンル
     attributes:
         account:
           email: Eメール
           password: パスワード
+        license:
+          category: 分野
+          genre: ジャンル
+          name: 名前
+          description: 説明
+          url: ホームページ
+          sponsor: 主催者
+        category:
+          name: 名前
+          en_name: 英名
+          genres: ジャンル
+          licenses: 資格
+        genre:
+          category: カテゴリー
+          name: 名前
+          licenses: 資格
   # 全てのmodelで共通して使用するattributesを定義
   attributes:
     created_at: 作成日

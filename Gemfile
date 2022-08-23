@@ -6,6 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.2'
 gem 'any_login'
 gem 'bootsnap', require: false
+gem 'cancancan'
 gem 'cssbundling-rails'
 gem 'devise'
 gem 'devise-i18n'
